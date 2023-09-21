@@ -11,7 +11,7 @@ blocks:
         - name: NODE_ENV
           value: test
         - name: CI
-          value: 'true'
+          value: 'false'
       prologue:
         commands:
           - checkout
